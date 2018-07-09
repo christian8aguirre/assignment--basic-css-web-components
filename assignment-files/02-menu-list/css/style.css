@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+*{
+	box-sizing: border-box;
+}
+
+body{
+  font-family: 'Roboto', sans-serif;
+}
+h1{
+  font-size: 20px;
+}
+th {
+  color: #66CC99;
+  text-align: left;
+}
+td, th{
+  font-size: 18px;
+  border: 0.5px black solid;
+  padding: 10px 130px 15px 10px;
+}
